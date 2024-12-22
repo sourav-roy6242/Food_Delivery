@@ -32,7 +32,7 @@ app.get("/",(re,res)=> {
 })
 
 app.listen(port,()=>{
-    console.log(`Server Strated on http://localhost:${port}`)
+    console.log(`Server Strated on http://:${port}`)
 })
 // //mongodb+srv://roys45545:<db_password>@cluster0.yyikr.mongodb.net/?
 
