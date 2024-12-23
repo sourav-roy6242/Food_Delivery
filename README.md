@@ -44,6 +44,8 @@ Frontend
 * CSS: Custom styling for a polished, responsive design.
 
 
+![Image](https://github.com/user-attachments/assets/a5e98e7a-28e1-466e-aa08-3374bfec56ea)
+
 Backend
 
 * Node.js: High-performance server-side logic.
