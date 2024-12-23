@@ -27,8 +27,7 @@ User Features
 
 ![Image](https://github.com/user-attachments/assets/1e374a83-4da4-4eff-b30f-a75aabd46d87)
 
-![Image](https://github.com/user-attachments/assets/a3468ec9-3fda-4279-ad95-d141abf4249d)
-
+![Image](https://github.com/user-attachments/assets/3172970c-3ca7-4b4f-9105-ff4b0b72ee4d)
 
 Admin Features
 
