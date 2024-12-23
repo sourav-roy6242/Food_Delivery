@@ -25,7 +25,7 @@ User Features
 
 * Responsive Design: Optimized for all devices, ensuring a smooth user experience.
 
-  ![Image](https://github.com/user-attachments/assets/1e374a83-4da4-4eff-b30f-a75aabd46d87)
+![Image](https://github.com/user-attachments/assets/1e374a83-4da4-4eff-b30f-a75aabd46d87)
 
 
 Admin Features
@@ -33,8 +33,10 @@ Admin Features
 * Restaurant Management: Add, update, or remove restaurant details.
 
 * Order Management: Monitor and manage customer orders in real-time.
-## Tech Stack
 
+![Image](https://github.com/user-attachments/assets/a5e98e7a-28e1-466e-aa08-3374bfec56ea)
+
+## Tech Stack
 
 Frontend
 
