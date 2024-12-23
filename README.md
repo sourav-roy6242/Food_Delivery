@@ -25,6 +25,8 @@ User Features
 
 * Responsive Design: Optimized for all devices, ensuring a smooth user experience.
 
+  ![Image](https://github.com/user-attachments/assets/1e374a83-4da4-4eff-b30f-a75aabd46d87)
+
 
 Admin Features
 
@@ -33,7 +35,6 @@ Admin Features
 * Order Management: Monitor and manage customer orders in real-time.
 ## Tech Stack
 
-![Image](https://github.com/user-attachments/assets/da73475a-1a05-4e2e-b7ff-010496933136)
 
 Frontend
 
@@ -44,7 +45,6 @@ Frontend
 * CSS: Custom styling for a polished, responsive design.
 
 
-![Image](https://github.com/user-attachments/assets/a5e98e7a-28e1-466e-aa08-3374bfec56ea)
 
 Backend
 
