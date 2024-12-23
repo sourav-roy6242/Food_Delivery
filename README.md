@@ -25,6 +25,7 @@ User Features
 
 * Responsive Design: Optimized for all devices, ensuring a smooth user experience.
 
+![Image](https://github.com/user-attachments/assets/1e374a83-4da4-4eff-b30f-a75aabd46d87)
 
 
 Admin Features
